@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "https://ari-devlog.pages.dev"
 title = "johndoe"
 theme = "hugo-coder"
 languageCode = "pt-br"
